@@ -1,5 +1,9 @@
 # ORBIT
 
+[![ORBIT tanıtım videosu — izlemek için tıkla](media/kapak.jpg)](media/ORBIT_Tanitim.mp4)
+
+<sub>▶ Tanıtım videosunu izlemek için görsele tıkla (1:52)</sub>
+
 **Kişisel gün ve odak zamanlayıcısı.** Tek bir HTML dosyası; kurulum yok, hesap yok, internet bağlantısı gerekmiyor.
 
 ORBIT, gün içinde neye ne kadar zaman verdiğini sade bir şekilde takip etmek için tasarlandı. Bir görev seçersin, sayaç başlar; seans bitince süre kaydedilir ve günün, haftanın, ayın nasıl geçtiğini analiz ekranında görürsün.
