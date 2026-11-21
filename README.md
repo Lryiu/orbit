@@ -6,6 +6,8 @@ https://github.com/user-attachments/assets/37d06621-b58d-4b1d-aa12-770dfafb5eb3
 
 ORBIT, gün içinde neye ne kadar zaman verdiğini sade bir şekilde takip etmek için tasarlandı. Bir görev seçersin, sayaç başlar; seans bitince süre kaydedilir ve günün, haftanın, ayın nasıl geçtiğini analiz ekranında görürsün.
 
+**Hemen dene:** [gamzeguckiran.com/orbit.html](https://gamzeguckiran.com/orbit.html)
+
 ---
 
 ## Özellikler
@@ -37,13 +39,18 @@ Her temanın kendine özgü, kısa ve sessiz bir dokunuşu var:
 
 Bilgisayarında "hareketi azalt" ayarı açıksa efektler kendiliğinden kapanır.
 
+**Sesler**
+- Süre bitince temaya göre değişen bir ses: Graphite'ta yumuşak bir elektronik çan, Editorial'da daktilo zili, Retro Terminal'de bip dizisi, Cinema'da projektör tıkırtısı ve gong.
+- Odak ve mola bitişlerinin sesleri farklı; bakmadan hangisinin bittiğini anlarsın.
+- İstersen bitişe 1 dakika kala hafif bir uyarı.
+- Ses seviyesi ve aç/kapat ayarı **♪ Ses** düğmesinde. Bitiş sesi önceden kurulduğu için sekme arka plandayken de tam zamanında çalar.
+
 ---
 
 ## Kullanım
 
-1. `index.html` dosyasını indir.
-2. Tarayıcında aç (Chrome, Firefox, Safari, Edge).
-3. Hepsi bu.
+- **En kolayı:** [gamzeguckiran.com/orbit.html](https://gamzeguckiran.com/orbit.html) adresini aç.
+- **Ya da** bu repodaki `index.html` dosyasını indirip tarayıcında aç (Chrome, Firefox, Safari, Edge). İnternet bağlantısı gerekmez.
 
 **Kısayollar**
 - `Boşluk`: seansı duraklat / devam ettir
