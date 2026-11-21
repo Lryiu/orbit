@@ -1,8 +1,6 @@
 # ORBIT
 
-[![ORBIT tanıtım videosu — izlemek için tıkla](media/kapak.jpg)](media/ORBIT_Tanitim.mp4)
-
-<sub>▶ Tanıtım videosunu izlemek için görsele tıkla (1:52)</sub>
+https://github.com/user-attachments/assets/37d06621-b58d-4b1d-aa12-770dfafb5eb3
 
 **Kişisel gün ve odak zamanlayıcısı.** Tek bir HTML dosyası; kurulum yok, hesap yok, internet bağlantısı gerekmiyor.
 
